@@ -5,7 +5,7 @@
 
 
 # clone item
-git clone git@github.com:qiufeihong2018/vuepress-blog.git
+git clone git@github.com:shwzh/vuepress-blog.git
 
 # install dependencies
 npm install

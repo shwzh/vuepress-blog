@@ -67,7 +67,7 @@ module.exports = [
         text: '个人主页',
         items: [
             {
-                text: 'GitHub', link: 'https://github.com/qiufeihong2018'
+                text: 'GitHub', link: 'https://github.com/shwzh'
             },
             {
                 text: '掘金', link: 'https://juejin.im/user/1099167358268392/posts'

@@ -19,7 +19,7 @@ footer: MIT Licensed | Copyright © 2019-present Wanzhong
 ### 12345
 ```bash
 # clone item
-git clone git@github.com:qiufeihong2018/vuepress-blog.git
+git clone git@github.com:shwzh2018/vuepress-blog.git
 
 # install dependencies
 npm install 

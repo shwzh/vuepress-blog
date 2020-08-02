@@ -1,5 +1,5 @@
 module.exports = {
-    title: '飞鸿的博客',
+    title: '万中的博客',
     description: '我的心路历程',
     dest: './dist',
     port: '5555',
