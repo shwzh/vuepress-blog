@@ -1,5 +1,5 @@
 # vuepress-blog
-> a vuepress blog about qiufeihong
+> a vuepress blog about wanzong 
 
 ### Build Setup
 
